@@ -1,4 +1,4 @@
-![logo](assets/logo.png)
+![logo](assets/logo-196x196.png)
 
 # Purpose
 Ansible Playbooks to deploy:
